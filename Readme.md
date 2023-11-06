@@ -1,3 +1,5 @@
+### Product  sales Analysis 
+
 The "Amazon Electronic Sales Data Analysis" project is a data-driven endeavor aimed at analyzing and visualizing sales data for electronic products on Amazon. The project utilizes popular Python data visualization libraries like Matplotlib, Seaborn, and Plotly to provide comprehensive insights into Amazon's electronic product sales, enabling businesses to make data-informed decisions and gain a competitive edge in the market.
 
 <li>Gather and preprocess Amazon electronic sales data.</li>
@@ -6,7 +8,7 @@ The "Amazon Electronic Sales Data Analysis" project is a data-driven endeavor ai
 <li>Develop interactive and dynamic visualizations with Plotly for better user engagement.</li>
 <li>Extract actionable insights from the analysis to inform business strategies.</li>
 
-<li> the project involes
+##### the project involes
   -  Data Collection and Preprocessing
   -  Exploratory Data Analysis (EDA) 
   -  Data Visualization with Matplotlib and Seaborn
@@ -14,6 +16,5 @@ The "Amazon Electronic Sales Data Analysis" project is a data-driven endeavor ai
   -  Use of Machine learning  Algorithm for prediction and decision making
 
 
-  </li>
-
   
+
